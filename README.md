@@ -1,1 +1,1 @@
-# .github
+# UCSD repos
